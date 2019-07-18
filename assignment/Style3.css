@@ -1,0 +1,50 @@
+
+body{
+
+ background-size: 100px 100px;
+ margin-top: 0px;
+}
+.Upper{
+	Background-color: transparent;
+	width: 100%;
+	height:50px;
+	text-color: black;
+	text-align: center;
+}
+.Link {
+	width: 100%;
+background-color: blue;
+  overflow: hidden;
+  float: left;
+}
+.Link a {
+	float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 100px;
+  text-decoration: none;
+  font-size: 17px;
+}
+img{
+	float:top;
+	float:left;
+	width:70px;
+	height:70px;
+}
+.vl {
+  border-left: 5px black;
+  height: 100%;
+  margin-left: 90px;
+  position:absolute; 
+}
+.vl ol {
+	position:absolute; 
+	margin-top: 100px;
+	border-right: 2px solid black;
+	height: 100%;
+	padding: 20px;
+}
+.hii1 ol {
+border-top: 2px solid black;
+margin-top: 80px;
+}

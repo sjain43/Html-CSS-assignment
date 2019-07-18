@@ -1,0 +1,19 @@
+
+body{
+background-image: url("img.jpg"); 
+background-repeat: no-repeat;
+ background-position: right top;
+ background-size: 100px 100px;
+ margin-top: 90px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td ,th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
